@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "Pliman"
+  },
+  "bugs": {
+    "url": "https://github.com/Pliman/koa2-webpack-hot-middleware/issues"
+  },
+  "dependencies": {
+    "webpack-hot-middleware": "2.x"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.53"
+  },
+  "description": "koa2 webpack hot middleware",
+  "homepage": "https://github.com/Pliman/koa2-webpack-hot-middleware",
+  "keywords": [
+    "koa2",
+    "webpack hot middleware"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "koa2-webpack-hot-middleware",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pliman/koa2-webpack-hot-middleware.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
