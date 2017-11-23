@@ -3,7 +3,7 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "target": "es5",
-    "lib": [ "es2015.promise", "es7", "es5", "dom" ],
+    "lib": [ "es2015.promise", "es7" ],
     "sourceMap": true,
     "allowSyntheticDefaultImports": true,
     "allowJs": true
