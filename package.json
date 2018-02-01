@@ -3,7 +3,7 @@
     "name": "Pliman"
   },
   "bugs": {
-    "url": "https://github.com/Pliman/koa2-webpack-hot-middleware/issues"
+    "url": "https://github.com/Pliman/koa-webpack-hot-middleware-async/issues"
   },
   "dependencies": {
     "webpack-hot-middleware": "2.x"
@@ -12,20 +12,20 @@
     "@types/node": "^8.0.53"
   },
   "description": "koa2 webpack hot middleware",
-  "homepage": "https://github.com/Pliman/koa2-webpack-hot-middleware",
+  "homepage": "https://github.com/Pliman/koa-webpack-hot-middleware-async",
   "keywords": [
     "koa2",
     "webpack hot middleware"
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "koa2-webpack-hot-middleware",
+  "name": "koa-webpack-hot-middleware-async",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pliman/koa2-webpack-hot-middleware.git"
+    "url": "git+https://github.com/Pliman/koa-webpack-hot-middleware-async.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.1"
+  "version": "1.0.0"
 }
